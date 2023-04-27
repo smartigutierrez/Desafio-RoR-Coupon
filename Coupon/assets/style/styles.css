@@ -1,0 +1,30 @@
+*{font-family: 'Roboto', sans-serif;
+}
+
+#nav {
+    background-color: #28A745;
+}
+
+a.nav-link{
+    color: white;
+}
+
+#foot {
+    background-color: #28A745;
+    color: white;
+    text-align: center;
+}
+
+#foot2{
+    text-align: center;
+font-size: 30px;
+}
+
+#greentext{
+    color: #28A745;
+    font-weight: medium;
+}
+
+#ftext{
+    color:#707070;
+    }
